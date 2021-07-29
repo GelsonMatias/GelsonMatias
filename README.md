@@ -9,7 +9,7 @@
 - 😄 Pronouns: ele/dele
 - ⚡ Fato engraçado: 😂😂😂😂 Adivinha
 
- <div>
+ <div style="display:flex">
   <a href="https://github.com/GelsonMatias">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GelsonMatias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GelsonMatias&layout=compact&langs_count=16&theme=dark"/>
