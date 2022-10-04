@@ -1,0 +1,2 @@
+Principal => #370470
+Secundária => #ffffff
