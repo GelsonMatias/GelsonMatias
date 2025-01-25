@@ -8,6 +8,7 @@
 - 📫 Email de contato: gelsonjmatias@gmail.com
 - 😄 Pronouns: ele/dele
 - ⚡ Fato engraçado: 😂😂😂😂 Adivinha
+- 🚀 HTML, CSS, JavaScript, TypeScript, Bootstrap, Tailwind, Vue.js, Angular, PHP, Laravel, Node.js, Java, Rest API, MySQL, WordPress, WebFlow, Git.
 
  <div style="display:flex">
   <a href="https://github.com/GelsonMatias">
